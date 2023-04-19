@@ -58,7 +58,7 @@ I plan on growing my knowledge on flexbox by studying more on w3school.com
 
 ## Author
 
-- Website - [ten18designs.com](https://www.your-site.com)
+- Website - [ten18designs.com](https://www.ten18designs.com)
 - Frontend Mentor - [@jamalr55](https://www.frontendmentor.io/profile/jamalr55)
 
 ## Acknowledgments
